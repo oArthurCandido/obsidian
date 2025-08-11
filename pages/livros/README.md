@@ -1,1 +1,1 @@
-1 - [Entendendo Algoritmos](entendendo-algoritmos/)
+- [Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos](entendendo-algoritmos/)
